@@ -1,0 +1,10 @@
+encoding,element,role,observed_or_inferred,confidence,notes
+continuous_ribbon,serpentine ring path,Main chronological axis,observed,high,Connects major periods
+center_circles,period labels,Stage identification,observed,high,Central period text
+radial_ticks,outer spokes and leaders,Event date/entry positioning,observed,high,Exact date mapping not fully recovered
+outer_labels,radial typography,Book/design influence and event annotations,observed,medium,Many small labels not readable
+color,blue cyan green bands,Visual continuity and phase differentiation,observed,medium,No explicit full color legend
+future_segment,open circular ring,Future horizon,observed,high,Future 2012 label
+map_silhouette,small Yulin map,Place/context cue,observed,medium,Map source/details not recoverable
+explanatory_box,lower-left text panel,Personal narrative framing,observed,high,Text partly legible
+project_tag,upper-right blue label,Program identity,observed,high,Information Design/MOE scholarship program 2011
