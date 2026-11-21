@@ -1,0 +1,19 @@
+taxon_id,label_original,label_zh,parent_label_original,parent_label_zh,group_color_visual,status_as_shown,confidence,notes
+T001,Bacteria,细菌,,,深棕/灰褐,主类群,high,图左侧主标签
+T002,Archaea,古菌,,,棕色,主类群,high,图左侧主标签
+T003,Eukaryotes,真核生物,,,橄榄/绿色系,主类群,high,图左侧主标签
+T004,Plants,植物,Eukaryotes,真核生物,绿色,主类群,high,图左上主标签
+T005,Fungi,真菌,Eukaryotes,真核生物,绿色/橄榄,主类群,high,图左上主标签
+T006,Amoebas,变形虫,Eukaryotes,真核生物,绿色系,主类群,medium,图中左上可辨识
+T007,Red Algae,红藻,Eukaryotes,真核生物,红/粉色系,主类群,medium,图中左上可辨识
+T008,Sponges,海绵动物,Eukaryotes,真核生物,黄色系,主类群,high,图上部可辨识
+T009,Ctenophores,栉水母类,Eukaryotes,真核生物,黄色系,主类群,medium,图上部可辨识
+T010,Corals,珊瑚,Eukaryotes,真核生物,黄色系,主类群,high,图上部可辨识
+T011,Protostomes,原口动物,Eukaryotes,真核生物,粉红色,主类群,high,图上部中央
+T012,Echinoderms,棘皮动物,Eukaryotes,真核生物,粉红/紫红色,主类群,high,图上部中央
+T013,Sharks,鲨鱼,Eukaryotes,真核生物,蓝色,主类群,high,图右上
+T014,Fish,鱼类,Eukaryotes,真核生物,蓝色,主类群,high,图右上
+T015,Amphibians,两栖动物,Eukaryotes,真核生物,蓝绿/橄榄,主类群,high,图右上
+T016,Reptiles,爬行动物,Eukaryotes,真核生物,橄榄绿,主类群,high,图右侧
+T017,Birds,鸟类,Eukaryotes,真核生物,棕色/橙棕,主类群,high,图右侧
+T018,Mammals,哺乳动物,Eukaryotes,真核生物,棕色,主类群,high,图最右侧
