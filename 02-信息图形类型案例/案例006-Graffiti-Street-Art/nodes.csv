@@ -1,0 +1,49 @@
+node_id,name,period_bucket,display_date,location,node_type,source_status
+1,"Art Brut",1940,"late-1940s","Paris","artist/term",image_transcription
+2,"Action Painting",1940,"1940s","US","art movement",image_transcription
+3,"Letttrism/Hypergraphy",1940,"1940s","Paris","movement",image_transcription
+4,"Collage",1940,"1940s","Global","technique",image_transcription
+5,"Spray Paint",1950,"1950s","Global","technique",image_transcription
+6,"Activist Art",1950,"1950s","Global","practice",image_transcription
+7,"Advertising Aesthetic",1950,"1950s","Global","aesthetic",image_transcription
+8,"Lowbrow Art",1950,"1950s","Global","movement",image_transcription
+9,"The Beats",1950,"1950s","US","culture",image_transcription
+10,"Happenings",1960,"1960s","US","practice",image_transcription
+11,"Pop Art",1960,"1950s","US/UK","movement",image_transcription
+12,"Situationist International",1960,"1957","Europe","movement",image_transcription
+13,"Outsider Art",1970,"1970s","Global","movement",image_transcription
+14,"Graffiti",1960,"c.1969","NYC/Philadelphia","practice",image_transcription
+15,"Street Art",1970,"mid-1970s","NYC","practice",image_transcription
+16,"Wildstyle",1970,"mid-1970s","NYC","style",image_transcription
+17,"Anarchitecture",1970,"early-1970s","NYC","practice",image_transcription
+18,"Semiotics",1970,"1970s","Global","theory",image_transcription
+19,"Gothic Futurism",1970,"mid-1970s","NYC","style",image_transcription
+20,"Punk",1970,"1970s","Global","culture",image_transcription
+21,"Hip-Hop",1970,"1970s","NYC","culture",image_transcription
+22,"Appropriation",1980,"c.1980","NYC","practice",image_transcription
+23,"Public Art",1980,"c.1980","NYC","practice",image_transcription
+24,"Conceptual Art",1980,"c.1980","NYC","movement",image_transcription
+25,"Neo-Expressionism",1980,"early-1980s","NYC","movement",image_transcription
+26,"Urban Modernism",1980,"1985","NYC","movement",image_transcription
+27,"Deconstructivist Architecture",1980,"1980s","Global","movement",image_transcription
+28,"Community Art",1980,"c.1980","NYC","practice",image_transcription
+29,"Proto-Graff",1990,"late-1980s","NYC","style",image_transcription
+30,"Abstract Graffiti",1990,"mid-1990s","Global","style",image_transcription
+31,"Beautiful Losers",1990,"mid-1990s","NYC","scene",image_transcription
+32,"Digital Media/Internet Culture",1990,"1990s","Global","culture",image_transcription
+33,"Indie Aesthetic",2000,"2000s","Global","aesthetic",image_transcription
+34,"Otaku Culture",2000,"late-1990s","Global","culture",image_transcription
+35,"Superflat",2000,"2000","Tokyo","movement",image_transcription
+36,"Outsider Graff",2000,"late-1990s","NYC","style",image_transcription
+37,"Childstyle",2000,"2004","NYC","style",image_transcription
+38,"Cyber-Graff",2000,"early-2000s","Global","style",image_transcription
+39,"Activism",2000,"early-2000s","Global","practice",image_transcription
+40,"Folk Graff",2000,"c.2005","Global","style",image_transcription
+41,"Graffuturism",2000,"2009","Global","style",image_transcription
+42,"Hybridism",2000,"2009","NYC","style",image_transcription
+43,"Pixelation",2010,"2010","NYC","style",image_transcription
+44,"Rurbanism",2010,"c.2012","Global","style",image_transcription
+45,"Urban Avant",2010,"c.2012","Global","style",image_transcription
+46,"Indie Graff",2010,"c.2012","Global","style",image_transcription
+47,"Fem Graff",2010,"c.2012","Global","style",image_transcription
+48,"Tackers",2010,"c.2012","Cyberspace","practice",image_transcription
