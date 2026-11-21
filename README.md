@@ -50,3 +50,6 @@
 
 
 - [案例014：Old World Language Families—语言谱系树](02-信息图形类型案例/案例014-Old-World-Language-Families/案例分析.md)
+
+
+- [案例015：Gear Timeline—个人成长与设计影响时间线](02-信息图形类型案例/案例015-Gear-Timeline/案例分析.md)
