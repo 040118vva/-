@@ -1,0 +1,11 @@
+element_id,visual_variable,visible_form,semantic_role,evidence_status,confidence
+VE01,Shape,Distinct circuit line symbols built from geometric primitives,Identifies a circuit component or function,visible in image,high
+VE02,Stroke,Consistent yellow-orange linework,Unifies symbol family and preserves outline legibility,visible in image,high
+VE03,Background,Dark charcoal field,Creates contrast with line symbols and labels,visible in image,high
+VE04,Text,English label directly below each symbol,Names the corresponding symbol,visible in image,high
+VE05,Position,Repeated multi-column grid,Supports browsing and lookup across independent entries,visible in image,high
+VE06,Scale,Mostly similar symbol-cell scale,Maintains equal catalog status; no quantitative mapping indicated,visible in image,high
+VE07,Typography,Large bold uppercase title and small captions,Establishes topic-to-entry hierarchy,visible in image,high
+VE08,Spacing,Consistent cell gutters and label offsets,Prevents symbol collisions and supports scanning,visible in image,high
+VE09,Color semantics,Single accent color shared across symbol families,No evidence that color encodes category or electrical values,visible in image,high
+VE10,Footer,Electronics Hub brand mark,Source/brand identification,visible in image,high
