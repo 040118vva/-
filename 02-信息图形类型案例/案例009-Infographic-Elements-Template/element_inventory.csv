@@ -1,0 +1,18 @@
+element_id,observed_element,location_in_image,visual_form,possible_function,transcription_status,confidence,notes
+009-01,Title Infographic Elements,top-left,title typography,title/identity,visible,high,Title text visible
+009-02,Industrial pump-like illustration,upper-center/main,large illustration,theme visual anchor,observed,medium,Exact equipment interpretation not confirmed
+009-03,City silhouette,upper-left background,city skyline,environmental context,observed,high,Decorative/contextual illustration
+009-04,Right-side icon strip,right vertical column,icon catalog,icon asset index,observed,high,Icons include industrial ecology transport natural motifs
+009-05,Circular pie chart samples,mid-left,small circular charts,chart component example,observed,high,Placeholder charts without data
+009-06,Dot matrix,mid-center,dot grid,quantity/array example,observed,high,Meaning not supplied
+009-07,Horizontal bars,mid-lower-left,horizontal bars,comparison/progress sample,observed,high,Placeholder
+009-08,Repeated monetary icon grid,mid-center-lower,icon repetition,array/count example,observed,medium,Actual value label is placeholder
+009-09,Area chart,lower-middle-left,area chart,trend example,observed,high,No axes/data values confirmed
+009-10,Vertical bar chart,lower-middle-left,bar chart,comparison example,observed,high,No axis data confirmed
+009-11,World map module,bottom-left,map,geographical chart component,observed,high,Map labels/data not present
+009-12,Repeated car icons,lower-right,icon array,unit/count illustration,observed,medium,No numeric mapping verified
+009-13,Horizontal ranking bars,lower-right,bar rows,comparison example,observed,medium,Placeholder titles
+009-14,Large curved divider,lower-right/central,curved white shape,layout divider,observed,high,Separates modules and creates movement
+009-15,Lorem ipsum copy,near modules,placeholder text,layout copy,visible,high,Not meaningful content
+009-16,TITLE PLACE HERE,chart modules,placeholder headings,heading hierarchy,visible,high,Not data
+009-17,Eco/bio wordmark,bottom-right,typographic mark,theme branding,visible,high,Text visible; intended project context uncertain

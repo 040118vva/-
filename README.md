@@ -35,3 +35,5 @@
 - [案例007：Sokak Bakışı 1—街道立面与地块编目](02-信息图形类型案例/案例007-Sokak-Bakisi-Streetscape/案例分析.md)
 
 - [案例008：Average Daily Flights—圆形航班目的地气泡图](02-信息图形类型案例/案例008-Average-Daily-Flights/案例分析.md)
+
+- [案例009：Infographic Elements—模块化图表与图标模板](02-信息图形类型案例/案例009-Infographic-Elements-Template/案例分析.md)
