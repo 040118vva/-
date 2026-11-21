@@ -1,0 +1,10 @@
+country,figure_large,population_display,defense_budget_display,transcription_note
+Argentina,76,40.3,2.05,图面读取；单位及字段待核
+Brazil,367.9,190,21.6,图面读取；单位及字段待核
+Chile,65,16.3,4.6,图面读取；单位及字段待核
+Colombia,114,28.6,1.2,图面读取；单位及字段待核
+Peru,57,13.7,0.92,图面读取；单位及字段待核
+Ecuador,46.1,9.1,21.6,低置信度需核
+Uruguay,,,,未能可靠读取
+Paraguay,115,,,单位及字段待核
+Bolivia,254.2,,,单位及字段待核
