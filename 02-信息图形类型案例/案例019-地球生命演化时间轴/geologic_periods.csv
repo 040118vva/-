@@ -1,0 +1,14 @@
+period_label_original,period_label_english,period_label_chinese,major_era_label,visible_boundary_value,display_unit,sequence_bottom_to_top,notes
+Precambrium,Precambrian,前寒武纪,Precambrian,,图上未标起点,1,图中底部最古老分期
+Cambrium,Cambrian,寒武纪,Paleozoic,600,图上标注值,2,保留原图数字不视为现代权威界线
+Siluur,Silurian,志留纪,Paleozoic,410,图上标注值,3,原图标注
+Devoon,Devonian,泥盆纪,Paleozoic,395,图上标注值,4,原图标注
+Carboon,Carboniferous,石炭纪,Paleozoic,345,图上标注值,5,原图标注
+Perm,Permian,二叠纪,Paleozoic,280,图上标注值,6,原图标注
+Trias,Triassic,三叠纪,Mesozoic,225,图上标注值,7,原图标注
+Jura,Jurassic,侏罗纪,Mesozoic,,图上数字边界不清,8,不强行补录
+Krijt,Cretaceous,白垩纪,Mesozoic,135,图上标注值,9,原图标注
+Tertiair,Tertiary,第三纪,Cenozoic,65,图上标注值,10,历史分期用语，沿用原图
+Kwartair,Quaternary,第四纪,Cenozoic,2,图上标注值,11,图上标注
+,,,,2300,图上标注值,,位于前寒武纪区域附近
+,,,,4600,图上标注值,,位于地球形成时间附近
