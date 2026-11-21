@@ -47,3 +47,6 @@
 
 
 - [案例013：The 2014 Quebec Political Twittersphere—政治转推社群网络](02-信息图形类型案例/案例013-Quebec-Political-Twitter-Network/案例分析.md)
+
+
+- [案例014：Old World Language Families—语言谱系树](02-信息图形类型案例/案例014-Old-World-Language-Families/案例分析.md)
