@@ -56,3 +56,6 @@
 
 
 - [案例016：La Rivista Perfetta—径向采访时间图](02-信息图形类型案例/案例016-La-Rivista-Perfetta/案例分析.md)
+
+- [案例017：LA TV CHE NON FARÒ MAI PIÙ](02-信息图形类型案例/案例017-La-TV-Che-Non-Faro-Mai-Piu/案例分析.md)
+- [案例入库规则](案例入库规则.md)
