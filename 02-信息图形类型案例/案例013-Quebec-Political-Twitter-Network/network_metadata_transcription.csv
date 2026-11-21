@@ -1,0 +1,9 @@
+field,value,source_status,notes
+title,The 2014 Quebec Political Twittersphere,image_transcribed,Title observed in image
+date_range,2013-10 to 2014-03,image_caption_transcribed,caption states main Quebec political hashtags used in period
+node_count,6052,image_caption_transcribed,caption says each dot is a Twitter user
+edge_count,119831,image_caption_transcribed,caption says each line is a retweet
+node_size_metric,retweet_frequency_received,image_caption_transcribed,Caption says node sizes proportional to how often a user has been retweeted
+layout_explanation,pull toward users retweeted and push away from those not retweeted,image_caption_transcribed,Exact algorithm and parameters not identified
+community_encoding,node_color,image_caption_transcribed,caption says colours represent sub-communities determined by network algorithm
+data_source,Vox Pop Labs / Vote Compass branding,image_observed,Original raw dataset and algorithm source not independently verified
