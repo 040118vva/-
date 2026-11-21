@@ -1,0 +1,9 @@
+item_id,inventory_no,ada_no,parsel_no,sequence_position,photo_status,transcription_status,notes
+1,1,194,14,1,photo_in_image,transcribed,First visible entry; boundary/entry grouping requires verification
+2,1,194,13,2,photo_in_image,transcribed,Second visible entry; inventory number appears repeated
+3,2,196,13,3,photo_in_image,transcribed,Visible entry after street label; text/boundary grouping uncertain
+4,3,196,12,4,photo_in_image,transcribed,Visible text block below photograph
+5,4,196,11,5,photo_in_image,transcribed,Visible text block below photograph
+6,5,196,10,6,photo_in_image,transcribed,Visible text block below photograph
+7,6,196,9,7,photo_in_image,transcribed,Visible text block below photograph
+8,7,196,8,8,photo_in_image,transcribed,Visible text block below photograph
