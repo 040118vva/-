@@ -60,3 +60,4 @@
 - [案例017：LA TV CHE NON FARÒ MAI PIÙ](02-信息图形类型案例/案例017-La-TV-Che-Non-Faro-Mai-Piu/案例分析.md)
 - [案例入库规则](案例入库规则.md)
 - [案例018：Evolution Emerging｜脊椎动物演化分支图](02-信息图形类型案例/案例018-Evolution-Emerging/案例分析.md)
+- [案例019：地球生命演化时间轴｜分层场景式自然史图](02-信息图形类型案例/案例019-地球生命演化时间轴/案例分析.md)
