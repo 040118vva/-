@@ -53,3 +53,6 @@
 
 
 - [案例015：Gear Timeline—个人成长与设计影响时间线](02-信息图形类型案例/案例015-Gear-Timeline/案例分析.md)
+
+
+- [案例016：La Rivista Perfetta—径向采访时间图](02-信息图形类型案例/案例016-La-Rivista-Perfetta/案例分析.md)
