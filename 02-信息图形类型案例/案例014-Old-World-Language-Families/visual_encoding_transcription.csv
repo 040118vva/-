@@ -1,0 +1,9 @@
+encoding,visual_role,source_text_or_observation,transcription_status,notes
+tree_trunk,Overall genealogy,Tree metaphor visually observed,image_observed,Branch hierarchy and labels
+branch_structure,Subfamily relationships,Branches and forks represent language family/subfamily hierarchy,image_observed,Exact taxonomy not independently checked
+branch_or_leaf_size,Population magnitude,Caption says branch sizes represent recorded native speakers before year 0,image_caption_transcribed,Exact scale/data unknown
+lower_panel_size,Approximate contemporary language population,Caption describes approximate sizes of known living language populations compared at year 0,image_caption_transcribed,Exact scale/data unknown
+labels,Language names,Labels along branch tips and branches,image_observed,Some labels difficult to read
+color,Group distinction,Blue/teal/cream/black coloration,image_observed,Color meaning not consistently inferable without legend
+map_insets,Historical spread,Two small world maps,image_observed,Exact map data and arrows not fully recoverable
+paper_texture,Stylistic background,Antique paper texture,image_observed,Decorative styling
