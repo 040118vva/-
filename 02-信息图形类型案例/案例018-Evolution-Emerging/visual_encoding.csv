@@ -1,0 +1,12 @@
+case_id,visual_element,observed_form,encoded_field,meaning,status,confidence,notes
+018,geologic_scale,左侧自下而上地质年代层,geologic_time,深时年代顺序,observed,high,层级标签可见
+018,strata_boundary,阶梯状水平边界,period_boundary,地质时期分隔,observed,high,各层时长不应假定等距
+018,strata_texture,点纹/横线/波纹/斜线,visual_grouping,地层分区与质感,observed,high,未见明确纹理图例
+018,lineage_band,中央连续带状分支,biological_group_lineage,类群出现/延续/分化的示意,observed,high,分支科学依据待核实
+018,band_width,分支带宽变化,possible_abundance_or_emphasis,可能暗示相对规模或视觉强调,uncertain,low,无图例/单位不可量化解释
+018,taxon_label,沿分支方向文字标签,taxon_name,类群名称,observed,medium,部分字样较小
+018,event_annotation,右侧对齐年代层的文字,event,时期事件与类群出现提示,observed,high,按原图措辞转录
+018,arrow_and_dashed_line,箭头/虚线,flow_direction,可能提示演化方向或分支关联,uncertain,medium,不将其解释为严格祖先后代关系
+018,monochrome_tone,黑白灰填充与轮廓线,visual_hierarchy,分层与结构区分,observed,high,历史印刷式风格
+018,curved_heading,顶部弧形标题,theme_framing,主题框定,observed,high,PROCESSION OF THE VERTEBRATES
+018,bottom_heading,底部大标题,theme_summary,主题总结,observed,high,EVOLUTION EMERGING
