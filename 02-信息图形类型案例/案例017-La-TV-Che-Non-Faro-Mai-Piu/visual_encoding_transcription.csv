@@ -1,0 +1,11 @@
+case_id,visual_element,observed_form,encoded_field,meaning,status,confidence,notes
+017,main_path,浅色连续蛇形折线路径,时间/年代,主时间推进路径,observed,high,具体尺度比例待核实
+017,decade_marker,珊瑚红圆点与年份圆标,decade,年代锚点,observed,high,可见1950/1960/1970/1980/1990
+017,program_marker,小圆点与短垂线,节目条目,节目时间位置,observed,medium,每条对应日期待逐项校验
+017,program_label,时间线旁文字标签,节目名称,识别电视节目,observed,medium,部分文字需高分辨率原图校对
+017,genre_legend,符号加类型文字,genre,节目类型分类,observed,high,图例类别可辨认但逐条映射待核实
+017,book_symbol,红色圆环/中心点符号,book_author_group,区分D.F.Wallace与其他作者书籍,observed,medium,具体符号对应的条目待核实
+017,leader_line,垂直短线/折线,关联关系,连接主时间路径与标签,observed,high,具体语义随条目核对
+017,background,深炭黑底色,visual_hierarchy,高对比编辑风格,observed,high,版面视觉基调
+017,accent_color,珊瑚红/橙红,highlight,强调年代及重点标记,observed,high,不额外解释为未证实的数据类别
+017,editorial_columns,多栏正文与侧栏,explanatory_text,解释性叙事,observed,high,杂志跨页编辑结构
