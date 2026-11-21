@@ -1,0 +1,7 @@
+event_id,event_label_original,event_label_zh,time_label_as_shown,time_value_mya_as_shown,event_category,evidence_status,notes
+E001,Earth Birth,地球形成,4000,4000,origin,图面转录待核验,图中标注约4000；并非现代标准地球年龄校正值
+E002,Oceans Rust,海洋生锈事件,未标数值,,environmental_event,图面可见待核验,原图用语为Oceans Rust；中文仅作直译
+E003,Global Ice Ages,全球冰期,未标数值,,climate_event,图面可见待核验,弧线注释；未转录具体年代
+E004,Cambrian Explosion,寒武纪生命大爆发,542,542,biological_event,图面转录待核验,按原图底部标注记录
+E005,Mass Extinction,大灭绝事件,未标数值,,extinction_event,图面可见待核验,图中多处标注；具体事件位置未逐一核定
+E006,Today,现代,Today,,reference_point,图面可见,时间轴两端均出现Today
