@@ -41,3 +41,6 @@
 - [案例010：西班牙各区域失业率月变化（10月）](02-信息图形类型案例/案例010-Spain-Regional-Unemployment-Change/案例分析.md)
 
 - [案例011：西班牙区域失业率月变化—地图与排序条形双视图](02-信息图形类型案例/案例011-Spain-Unemployment-Change-Ranked-Bars/案例分析.md)
+
+
+- [案例012：世界级大型银行市场资金总额双时期嵌套圆泡图](02-信息图形类型案例/案例012-World-Large-Banks-Market-Funding/案例分析.md)
