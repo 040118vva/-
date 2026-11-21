@@ -39,3 +39,5 @@
 - [案例009：Infographic Elements—模块化图表与图标模板](02-信息图形类型案例/案例009-Infographic-Elements-Template/案例分析.md)
 
 - [案例010：西班牙各区域失业率月变化（10月）](02-信息图形类型案例/案例010-Spain-Regional-Unemployment-Change/案例分析.md)
+
+- [案例011：西班牙区域失业率月变化—地图与排序条形双视图](02-信息图形类型案例/案例011-Spain-Unemployment-Change-Ranked-Bars/案例分析.md)
