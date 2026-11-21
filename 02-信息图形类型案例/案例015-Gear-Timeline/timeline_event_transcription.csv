@@ -1,0 +1,21 @@
+panel,period_or_date,visible_label,category,transcription_confidence,notes
+main_path,1987-2000,1987-2000,life_stage,high,Stage label transcribed
+main_path,2000-2006,2000-2006,life_stage,high,Stage label transcribed
+main_path,2006-2010,2006-2010,life_stage,high,Stage label transcribed
+main_path,2010,Yulin: 2010,place_or_stage,medium,Center label read from image
+main_path,2010,2010,life_stage,high,Center label transcribed
+main_path,2011,Now Yulin: 2011,current_stage,high,Center label transcribed
+main_path,2012,Future 2012,future,high,Future label transcribed
+main_path,early, Born,birth_marker,medium,Label appears near path; date not recoverable here
+ring_labels,school_stage,Kindergarten,education_stage,high,Label on ring
+ring_labels,school_stage,Elementary school,education_stage,high,Label on ring
+ring_labels,school_stage,High School,education_stage,high,Label on ring
+ring_labels,school_stage,College,education_stage,high,Label on ring
+ring_labels,school_stage,Grad School,education_stage,high,Label on ring
+ring_labels,personal, Summer Vacation,personal_stage,medium,Label on path
+ring_labels,design,Poster,design_topic,medium,Label on ring
+ring_labels,design,Typography,design_topic,medium,Label on ring
+ring_labels,design,Graphic Design,design_topic,medium,Label on ring
+ring_labels,design,Design,design_topic,medium,Some ring labels are partially legible
+ring_labels,design,People and graphic design,design_topic,low,Partially readable text
+events_outer,undated,Various radial outer text,book_or_influence,low,Small text is difficult to transcribe; individual titles omitted
