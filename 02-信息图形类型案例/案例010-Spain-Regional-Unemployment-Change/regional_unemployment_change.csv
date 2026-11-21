@@ -1,0 +1,20 @@
+region,value_percent,visual_class,image_transcription_status,notes
+Galicia,-0.39,light/low,readable,Monthly change percent; definition/source not independently verified
+Asturias,-0.82,light/low,readable,Monthly change percent; definition/source not independently verified
+Cantabria,0.54,average/middle,readable,Monthly change percent; definition/source not independently verified
+Pais Vasco,0.84,dark/high,readable,Monthly change percent; definition/source not independently verified
+Navarra,0.39,average/middle,readable,Monthly change percent; definition/source not independently verified
+Aragon,2.48,dark/high,readable,Monthly change percent; definition/source not independently verified
+Cataluna,1.39,dark/high,readable,readable label; source data not verified
+La Rioja,1.02,dark/high,readable,Monthly change percent; definition/source not independently verified
+Madrid,2.33,dark/high,readable,Monthly change percent; definition/source not independently verified
+Castilla y Leon,0.77,average/middle,readable,Monthly change percent; definition/source not independently verified
+Extremadura,-1.86,light/low,readable,Monthly change percent; definition/source not independently verified
+Castilla-La Mancha,1.78,dark/high,readable,Monthly change percent; definition/source not independently verified
+Comunidad Valenciana,2.08,dark/high,readable,Monthly change percent; definition/source not independently verified
+Balears,-4.27,light/low,readable,Monthly change percent; definition/source not independently verified
+Andalucia,-0.30,light/low,readable,Monthly change percent; definition/source not independently verified
+Murcia,1.78,dark/high,readable,Monthly change percent; definition/source not independently verified
+Canarias,3.42,dark/high,readable,Monthly change percent; definition/source not independently verified
+Ceuta,1.81,dark/high,readable,Monthly change percent; definition/source not independently verified
+Melilla,1.93,dark/high,readable,Monthly change percent; definition/source not independently verified
