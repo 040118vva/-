@@ -1,0 +1,36 @@
+panel,label,parent_family,subbranch_or_group,transcription_confidence,notes
+upper_historic,Hindi,Indo-European,Indic,medium,Label observed; branch assignment inferred from graph
+upper_historic,Urdu,Indo-European,Indic,medium,Label observed; branch assignment inferred from graph
+upper_historic,Bengali,Indo-European,Indic,medium,Label observed; branch assignment inferred from graph
+upper_historic,Marathi,Indo-European,Indic,medium,Label observed; branch assignment inferred from graph
+upper_historic,Spanish,Indo-European,Romance,high,Label observed
+upper_historic,Portuguese,Indo-European,Romance,high,Label observed
+upper_historic,Italian,Indo-European,Romance,high,Label observed
+upper_historic,French,Indo-European,Romance,high,Label observed
+upper_historic,Russian,Indo-European,Slavic,high,Label observed
+upper_historic,Ukrainian,Indo-European,Slavic,high,Label observed
+upper_historic,German,Indo-European,Germanic,high,Label observed
+upper_historic,English,Indo-European,Germanic,high,Label observed
+upper_historic,Danish,Indo-European,North Germanic,high,Label observed
+upper_historic,Swedish,Indo-European,North Germanic,high,Label observed
+upper_historic,Finnish,Uralic,Finnic,high,Label observed
+upper_historic,Hungarian,Uralic,Finnic/Ugric grouping,medium,Label observed; placement interpretation may require original
+upper_historic,Estonian,Uralic,Finnic,high,Label observed
+upper_historic,Greek,Indo-European,Hellenic,high,Label observed
+upper_historic,Persian,Indo-European,Iranian,high,Label observed
+upper_historic,Albanian,Indo-European,Albanian,high,Label observed
+upper_historic,Armenian,Indo-European,Armenian,high,Label observed
+upper_historic,Polish,Indo-European,Slavic,high,Label observed
+upper_historic,Czech,Indo-European,Slavic,high,Label observed
+upper_historic,Catalan,Indo-European,Romance,high,Label observed
+lower_living,Norsk,North Germanic,Scandinavian,high,Label observed; current population section
+lower_living,Dansk,North Germanic,Scandinavian,high,Label observed; current population section
+lower_living,Svenska,North Germanic,Scandinavian,high,Label observed; current population section
+lower_living,Íslenska,North Germanic,Scandinavian,medium,Label observed; spelling transcription
+lower_living,Suomi,Finnic,Uralic,high,Label observed; current population section
+lower_living,Sami,Sami,Uralic,medium,Label observed; represented group/varieties unclear
+lower_living,Esti,Estonian,Uralic,medium,Label observed; label read as Esti/Eesti
+lower_living,Mari,Mari,Uralic,medium,Label observed
+lower_living,Komi,Komi,Uralic,medium,Label observed
+lower_living,Moksha,Mordvinic,Uralic,medium,Label observed
+lower_living,Erzya,Mordvinic,Uralic,medium,Label observed
