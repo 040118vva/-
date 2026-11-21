@@ -1,0 +1,18 @@
+case_id,record_id,sequence,geologic_period,side_label,group_or_event,first_appearance_or_note,unit,source_status,confidence,notes
+018,era_01,1,Archaean (Archaeozoic),,Traces of low forms of plants,,,,high,图右侧可见注释；年代边界数值未转录
+018,era_02,2,Pre-Cambrian (Proterozoic),,Obscure traces of low forms of animals,,,,high,图右侧可见注释
+018,era_03,3,Cambrian,,Many food-sifting invertebrates,,,,high,图右侧可见注释
+018,era_04,4,Ordovician,,Oldest known chordates (Ostracoderms),,,,high,图右侧可见注释
+018,era_05,5,Silurian,,Ostracoderms flourish; others unknown,,,,high,图右侧可见注释
+018,era_06,6,Devonian,,Major groups of fishes established; Amphibians arise,,,,high,图右侧可见注释
+018,era_07,7,Mississippian,,Fishes diversified,,,,high,图右侧可见注释
+018,era_08,8,Carboniferous,,Reptiles arise,,,,high,图右侧可见注释
+018,era_09,9,Permian,,Appalachian uplift; Reptiles diversified,,,,high,图右侧可见注释
+018,era_10,10,Triassic,,Origin of Mammals,,,,high,图右侧可见注释
+018,era_11,11,Jurassic,,Origin of Birds,,,,high,图右侧可见注释
+018,era_12,12,Cretaceous,,Dinosaurs reign,,,,high,图右侧可见注释
+018,era_13,13,Cenozoic,,Rocky Mts. rise; Mammals reign,,,,high,图右侧可见注释
+018,era_14,14,Recent,,Man,,,,high,图右侧可见注释
+018,timescale_01,,,550 million years,,,million years,visible,high,图左侧Cambrian附近可见550刻度
+018,timescale_02,,,180 million years,,,million years,visible,medium,图左侧Triassic附近可见180刻度
+018,timescale_03,,,60 million years,,,million years,visible,medium,图左侧Cenozoic附近可见60刻度
