@@ -1,0 +1,20 @@
+region,value_image_transcribed,rank_desc,color_group_image_observed,transcription_status,notes
+Canarias,3.42,1,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+Aragón,2.48,2,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+Madrid,2.33,3,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+C. Valenciana,2.08,4,above_average_dark,transcribed,Image abbreviation; value transcribed
+Melilla,1.93,5,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+Ceuta,1.81,6,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+Murcia,1.78,7,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+C.-La Mancha,1.78,8,above_average_dark,transcribed,Image abbreviation; value transcribed
+Cataluña,1.39,9,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+La Rioja,1.02,10,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+País Vasco,0.84,11,above_average_dark,transcribed,Image value; source/statistical method not independently verified
+C. y León,0.77,12,below_average_light,transcribed,Image abbreviation; value transcribed
+Cantabria,0.54,13,below_average_light,transcribed,Image value; source/statistical method not independently verified
+Navarra,0.39,14,below_average_light,transcribed,Image value; source/statistical method not independently verified
+Andalucía,-0.30,15,below_average_light,transcribed,Image value; source/statistical method not independently verified
+Galicia,-0.39,16,below_average_light,transcribed,Image value; source/statistical method not independently verified
+Asturias,-0.82,17,below_average_light,transcribed,Image value; source/statistical method not independently verified
+Extremadura,-1.86,18,below_average_light,transcribed,Image value; source/statistical method not independently verified
+Baleares,-4.27,19,below_average_light,transcribed,Image value; source/statistical method not independently verified
