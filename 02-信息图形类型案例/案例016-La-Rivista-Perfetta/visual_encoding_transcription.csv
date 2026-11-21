@@ -1,0 +1,9 @@
+encoding,element,observed_role,confidence,notes
+time_grid,concentric/radial dotted field,Time reference grid,medium,Exact grid semantics not fully recoverable
+year_labels,visible year sequence circa 2000-2020,Temporal anchors,medium,Mapping details need source verification
+points,black/coral/light points,Interview or record markers,medium,Color/size semantics not confirmed
+radial_lines,lines between field and labels,Linking/positioning structure,medium,Precise meaning not established
+labels,outer person names and small annotations,Record identification,low,Many annotations are illegible at supplied resolution
+layout,coral background and warm white circular field,Editorial visual framing,high,Strong contrast across spread
+headline,large condensed display type,Editorial hierarchy,high,Main title dominates page
+article_columns,right-side text,Contextual explanation,high,Text complements chart
