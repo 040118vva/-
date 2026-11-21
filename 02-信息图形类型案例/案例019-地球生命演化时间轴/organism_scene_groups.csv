@@ -1,0 +1,7 @@
+record_id,period_or_range,organism_or_scene_group,environment,visual_role,identification_confidence,notes
+T01,Precambrian,早期生命痕迹与微生物形态,海洋,展示生命早期阶段,概括性,图像个体细节不宜作物种级鉴定
+T02,Cambrian-Silurian,海洋无脊椎动物与早期水生生物,海洋,展示早期海洋生命多样性,概括性,按画面场景概括
+T03,Devonian-Carboniferous,鱼类及早期陆生生态,水域与湿地,展示水生生物及陆地生态扩展,概括性,不推断具体物种
+T04,Permian-Triassic,早期爬行动物及陆地动物群,陆地与水域,表现古生代末至中生代生态更替,概括性,图像中含多个动物形态
+T05,Jurassic-Cretaceous,恐龙及海生爬行动物等,陆地与海洋,表现中生代代表性动物群,概括性,个体名称需进一步核验
+T06,Tertiary-Quaternary,大型哺乳动物及较近时期动物群,陆地,表现新生代生态场景,概括性,不据插画直接确认具体物种
