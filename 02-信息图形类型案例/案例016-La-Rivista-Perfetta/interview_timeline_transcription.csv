@@ -1,0 +1,8 @@
+panel,year_or_range,transcribed_label,record_type,confidence,notes
+timeline,2000-2020,Visible year sequence approximately 2000 to 2020,year_scale,medium,Year labels visible; exact endpoints and radial mapping should be verified
+data_field,unknown,Interview/person entries distributed around circular field,record,medium,Labels and exact point values not fully readable
+editorial,unknown,La Rivista Perfetta,headline,high,Large title in left-page spread
+editorial,unknown,PAGARE LE IDEE?,headline,high,Right-page headline transcription
+editorial,unknown,Interview/editorial text blocks,context,medium,Full text not transcribed
+data_field,unknown,Colored points and connecting lines,visual_record,medium,Legend semantics unclear
+data_field,unknown,Outer names and annotations,person_label,low,Many names are too small to transcribe reliably
