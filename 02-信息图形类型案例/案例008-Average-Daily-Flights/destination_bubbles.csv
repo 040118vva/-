@@ -1,0 +1,79 @@
+city,region_group,visual_size_rank,approx_circle_color,transcription_status,notes
+London,Europe,1,blue,visible,largest bubble apparent
+Paris,Europe,2,blue,visible
+New York,North America,3,orange,visible
+Amsterdam,Europe,4,blue,visible
+Berlin,Europe,5,blue,visible
+Moscow,Europe,6,blue,visible
+Vienna,Europe,7,blue,visible
+Madrid,Europe,8,blue,visible
+Rome,Europe,9,blue,visible
+Frankfurt,Europe,10,blue,visible
+Istanbul,Europe,11,blue,visible
+St Petersburg,Europe,12,blue,visible
+Stockholm,Europe,13,blue,visible
+Copenhagen,Europe,14,blue,visible
+Munich,Europe,15,blue,visible
+Dusseldorf,Europe,16,blue,visible
+Brussels,Europe,17,blue,visible
+Milan,Europe,18,blue,visible
+Barcelona,Europe,19,blue,visible
+Lisbon,Europe,20,blue,visible
+Oslo,Europe,21,blue,visible
+Prague,Europe,22,blue,visible
+Warsaw,Europe,23,blue,visible
+Athens,Europe,24,blue,visible
+Budapest,Europe,25,blue,visible
+Bucharest,Europe,26,blue,visible
+Kiev,Europe,27,blue,visible
+Zurich,Europe,28,blue,visible
+Manchester,Europe,29,blue,visible
+Bristol,Europe,30,blue,visible
+Edinburgh,Europe,31,blue,visible
+Dublin,Europe,32,blue,visible
+Lyon,Europe,33,blue,visible
+Marseille,Europe,34,blue,visible
+Malaga,Europe,35,blue,visible
+Palma de Mallorca,Europe,36,blue,visible
+Helsinki,Europe,37,blue,visible
+Tallinn,Europe,38,blue,visible
+Gdansk,Europe,39,blue,visible
+Poznan,Europe,40,blue,visible
+Wroclaw,Europe,41,blue,visible
+Brno,Europe,42,blue,visible
+Katowice,Europe,43,blue,visible
+Krakow,Europe,44,blue,visible
+Lviv,Europe,45,blue,visible
+Tirana,Europe,46,blue,visible
+Thessaloniki,Europe,47,blue,visible
+Seoul,Asia,48,yellow,visible,highlighted bubble
+Beijing,Asia,49,yellow,visible,highlighted bubble
+Tokyo,Asia,50,yellow,visible,highlighted bubble
+Shanghai,Asia,51,yellow,visible,highlighted bubble
+Hong Kong,Asia,52,yellow,visible,highlighted bubble
+Singapore,Asia,53,green,visible,highlighted bubble
+Bangkok,Asia,54,green,visible,highlighted bubble
+Dubai,Middle East,55,green,visible,highlighted bubble
+Tel Aviv,Middle East,56,green,visible
+Doha,Middle East,57,green,visible
+Amman,Middle East,58,green,visible
+Cairo,Africa,59,olive,visible
+Casablanca,Africa,60,blue,visible
+Marrakech,Africa,61,olive,visible
+Dakar,Africa,62,olive,visible
+Zanzibar,Africa,63,olive,visible
+Sao Paulo,South America,64,purple,visible
+Cancun,North America,65,purple,visible
+Havana,North America,66,purple,visible
+Atlanta,North America,67,orange,visible
+Newark,North America,68,orange,visible
+Toronto,North America,69,orange,visible
+Miami,North America,70,blue,visible
+Boston,North America,71,blue,visible
+San Francisco,North America,72,orange,visible
+Seattle,North America,73,orange,visible
+Washington,North America,74,orange,visible
+Detroit,North America,75,orange,visible
+Houston,North America,76,orange,visible
+Fort Lauderdale,North America,77,orange,visible
+Minneapolis,North America,78,orange,visible
