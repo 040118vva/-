@@ -1,0 +1,41 @@
+record_id,grid_position,country_label_original,country_name_normalized,dish_label_original,dish_name_zh,transcription_status,source,evidence_note
+1,row1-col1,Afghanistan,Afghanistan,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+2,row1-col2,Albania,Albania,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+3,row1-col3,Algeria,Algeria,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+4,row1-col4,Andorra,Andorra,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+5,row1-col5,Angola,Angola,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+6,row1-col6,Argentina,Argentina,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+7,row1-col7,Armenia,Armenia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+8,row1-col8,Australia,Australia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+9,row1-col9,Austria,Austria,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+10,row1-col10,Azerbaijan,Azerbaijan,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+11,row1-col11,Bangladesh,Bangladesh,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+12,row1-col12,Belgium,Belgium,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+13,row1-col13,Benin,Benin,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+14,row1-col14,Bolivia,Bolivia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+15,row2-col1,Bosnia and Herzegovina,Bosnia and Herzegovina,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+16,row2-col2,Botswana,Botswana,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+17,row2-col3,Brazil,Brazil,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+18,row2-col4,Bulgaria,Bulgaria,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+19,row2-col5,Cambodia,Cambodia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+20,row2-col6,Cameroon,Cameroon,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+21,row2-col7,Canada,Canada,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+22,row2-col8,Cape Verde,Cape Verde,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+23,row2-col9,Chile,Chile,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+24,row2-col10,China,China,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+25,row2-col11,Colombia,Colombia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+26,row2-col12,Congo,Congo,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+27,row2-col13,Costa Rica,Costa Rica,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+28,row2-col14,Croatia,Croatia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+29,row3-col1,Cuba,Cuba,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+30,row3-col2,Cyprus,Cyprus,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+31,row3-col3,Czech Republic,Czech Republic,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+32,row3-col4,Denmark,Denmark,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+33,row3-col5,Dominican Republic,Dominican Republic,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+34,row3-col6,Ecuador,Ecuador,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+35,row3-col7,Egypt,Egypt,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+36,row3-col8,El Salvador,El Salvador,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+37,row3-col9,Estonia,Estonia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+38,row3-col10,Ethiopia,Ethiopia,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+39,row3-col11,Finland,Finland,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
+40,row3-col12,France,France,,,,country_label_visible,direct_image_transcription,菜名文字过小暂不转录
