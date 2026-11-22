@@ -1,0 +1,12 @@
+element,visual_form,encoded_field,information_function,evidence_status,confidence,notes
+main_title,large serif title,topic,defines global food theme,visible,high,A world of tastes
+country_name_label,small curved text around dish medallion,country_or_region,alphabetical retrieval anchor,visible,medium,Some small labels need high-resolution verification
+food_illustration,color food drawing within circular frame,dish_identity,rapid visual recognition of each dish,visible,high,Do not infer exact dish name from appearance alone
+circular_medallion,thin circular border,entry_container,groups image and label into repeated catalog unit,visible,high
+red_gold_arc,red and ochre curved accent,none_confirmed,decorative rhythm and visual identity,inferred,medium,No legend indicates quantitative meaning
+matrix_position,repeated rows and columns,entry_order,high-density browsing and scanning,visible,high,Country order appears alphabetical in visible sequence
+ingredient_ring,small circular/radial diagram,ingredient_categories,top-level ingredient overview,visible,medium,Exact percentages and mapping require source verification
+percentage_scale,bottom horizontal segmented scale,ingredient_share_or_frequency,summary of ingredient distribution,visible,medium,Transcribe values only from a high-resolution source
+world_map,light world map with regional marks,rice_related_geography,geographic context for rice information,visible,medium,Exact metric and units require verification
+map_legend,small legend and area inset,spatial_density_or_area,explains map values,visible,low,Text is too small to verify in current image
+newspaper_spread,two-page editorial layout,reading_hierarchy,combines catalog and analysis modules,visible,high,South China Morning Post dated 2018-12-22
