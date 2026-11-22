@@ -65,9 +65,9 @@
 - [案例020：生命演化分支图｜时间轴＋谱系树复合图](02-信息图形类型案例/案例020-生命演化分支图/案例分析.md)
 
 
-- [案例021：Electrical & Electronic Circuit Symbols—电路符号图鉴](02-信息图形类型案例/案例021-Electrical-Electronic-Circuit-Symbols/案例分析.md)
 
-- [案例022：Queen ‘Strat’—Fender Stratocaster 产品结构与音乐人物专题](02-信息图形类型案例/案例022-Queen-Stratocaster/案例分析.md)（编目型主导；混合型表达；含实体与视觉编码 CSV）
+
+
 
 - [案例021：Electrical & Electronic Circuit Symbols—电路符号名称索引](02-信息图形类型案例/案例021-Electrical-Electronic-Circuit-Symbols/案例分析.md)（01字母表型，按用户确认）
 - [案例022：Queen ‘Strat’—Stratocaster产品与人物专题](02-信息图形类型案例/案例022-Queen-Stratocaster/案例分析.md)（01字母表型，按用户确认）
