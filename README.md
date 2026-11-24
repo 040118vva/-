@@ -10,10 +10,15 @@
 - [地理图形型](01-信息图形数据逻辑/05-地理图形信息图形概念定义.md)
 
 ## 02 信息图形类型案例
+本目录收录具体信息图案例与表达类型。ISOTYPE 专项项目独立维护于 [03-ISOTYPE信息图](03-ISOTYPE信息图/README.md)，不作为 02 中的普通信息图形类型。
+
 - [混合型信息图](02-信息图形类型案例/01-混合型信息图案例.md)
 - [信息列表型信息图](02-信息图形类型案例/02-信息列表型信息图案例.md)
 - [时间线信息图](02-信息图形类型案例/03-时间线信息图案例.md)
 - [案例004：Power Centers of the Fortune 500](02-信息图形类型案例/案例004-Power-Centers-Fortune-500/案例分析.md)
+
+## 03 ISOTYPE 信息图专项
+- [专项项目首页](03-ISOTYPE信息图/README.md)：研究 ISOTYPE 的历史、原则、视觉语法、案例与当代应用。
 
 ## 仓库规则
 - [案例入库规则](案例入库规则.md)：先判断五类主导数据逻辑（01），再确定案例标签（02），再拆解视觉编码、信息架构、叙事和制作方法；提取基础数据集；同步迭代定义并更新索引。
@@ -29,46 +34,21 @@
 7. 尽可能整理基础数据集并提交；说明来源、转录状态与限制。
 
 - [案例005：南美防御—邻国军备概况](02-信息图形类型案例/案例005-南美防御/案例分析.md)
-
 - [案例006：Graffiti and Street Art—Feral Diagram 2.0](02-信息图形类型案例/案例006-Graffiti-Street-Art/案例分析.md)
-
 - [案例007：Sokak Bakışı 1—街道立面与地块编目](02-信息图形类型案例/案例007-Sokak-Bakisi-Streetscape/案例分析.md)
-
 - [案例008：Average Daily Flights—圆形航班目的地气泡图](02-信息图形类型案例/案例008-Average-Daily-Flights/案例分析.md)
-
 - [案例009：Infographic Elements—模块化图表与图标模板](02-信息图形类型案例/案例009-Infographic-Elements-Template/案例分析.md)
-
 - [案例010：西班牙各区域失业率月变化（10月）](02-信息图形类型案例/案例010-Spain-Regional-Unemployment-Change/案例分析.md)
-
 - [案例011：西班牙区域失业率月变化—地图与排序条形双视图](02-信息图形类型案例/案例011-Spain-Unemployment-Change-Ranked-Bars/案例分析.md)
-
-
 - [案例012：世界级大型银行市场资金总额双时期嵌套圆泡图](02-信息图形类型案例/案例012-World-Large-Banks-Market-Funding/案例分析.md)
-
-
 - [案例013：The 2014 Quebec Political Twittersphere—政治转推社群网络](02-信息图形类型案例/案例013-Quebec-Political-Twitter-Network/案例分析.md)
-
-
 - [案例014：Old World Language Families—语言谱系树](02-信息图形类型案例/案例014-Old-World-Language-Families/案例分析.md)
-
-
 - [案例015：Gear Timeline—个人成长与设计影响时间线](02-信息图形类型案例/案例015-Gear-Timeline/案例分析.md)
-
-
 - [案例016：La Rivista Perfetta—径向采访时间图](02-信息图形类型案例/案例016-La-Rivista-Perfetta/案例分析.md)
-
 - [案例017：LA TV CHE NON FARÒ MAI PIÙ](02-信息图形类型案例/案例017-La-TV-Che-Non-Faro-Mai-Piu/案例分析.md)
-- [案例入库规则](案例入库规则.md)
 - [案例018：Evolution Emerging｜脊椎动物演化分支图](02-信息图形类型案例/案例018-Evolution-Emerging/案例分析.md)
 - [案例019：地球生命演化时间轴｜分层场景式自然史图](02-信息图形类型案例/案例019-地球生命演化时间轴/案例分析.md)
-
 - [案例020：生命演化分支图｜时间轴＋谱系树复合图](02-信息图形类型案例/案例020-生命演化分支图/案例分析.md)
-
-
-
-
-
-
 - [案例021：Electrical & Electronic Circuit Symbols—电路符号名称索引](02-信息图形类型案例/案例021-Electrical-Electronic-Circuit-Symbols/案例分析.md)（01字母表型，按用户确认）
 - [案例022：Queen ‘Strat’—Stratocaster产品与人物专题](02-信息图形类型案例/案例022-Queen-Stratocaster/案例分析.md)（01字母表型，按用户确认）
 - [案例023：A World of Tastes—世界各国菜肴图鉴](02-信息图形类型案例/案例023-A-World-of-Tastes/案例分析.md)（01字母表型；国家名称索引＋全球美食图鉴）
