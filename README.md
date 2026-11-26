@@ -9,13 +9,26 @@
 - [字母表型](01-信息图形数据逻辑/04-字母表型信息图形概念定义.md)
 - [地理图形型](01-信息图形数据逻辑/05-地理图形信息图形概念定义.md)
 
-## 02 信息图形类型案例
-本目录收录具体信息图案例与表达类型。ISOTYPE 专项项目独立维护于 [03-ISOTYPE信息图](03-ISOTYPE信息图/README.md)，不作为 02 中的普通信息图形类型。
+## 02 信息图形类型与案例
+本目录维护 17 份类型说明及具体案例。说明内容依据已分析案例持续总结；尚无相应案例图证据的类型页明确标注待分析。ISOTYPE 专项独立维护于 [03-ISOTYPE信息图](03-ISOTYPE信息图/README.md)。
 
-- [混合型信息图](02-信息图形类型案例/01-混合型信息图案例.md)
-- [信息列表型信息图](02-信息图形类型案例/02-信息列表型信息图案例.md)
-- [时间线信息图](02-信息图形类型案例/03-时间线信息图案例.md)
-- [案例004：Power Centers of the Fortune 500](02-信息图形类型案例/案例004-Power-Centers-Fortune-500/案例分析.md)
+- [混合型-Mixed-Charts](02-信息图形类型案例/01-混合型-Mixed-Charts.md)
+- [文字型列表型-Informational-List](02-信息图形类型案例/02-文字型列表型-Informational-List.md)
+- [时间轴型-Timeline](02-信息图形类型案例/03-时间轴型-Timeline.md)
+- [示意图型-How-to](02-信息图形类型案例/04-示意图型-How-to.md)
+- [流程图型-Process](02-信息图形类型案例/05-流程图型-Process.md)
+- [比较型-Comparison](02-信息图形类型案例/06-比较型-Comparison.md)
+- [地标型-Location](02-信息图形类型案例/07-地标型-Location.md)
+- [图片式-Photo-graphic](02-信息图形类型案例/08-图片式-Photo-graphic.md)
+- [层级表现型-Hierarchical](02-信息图形类型案例/09-层级表现型-Hierarchical.md)
+- [单一图表型-Single-Chart](02-信息图形类型案例/10-单一图表型-Single-Chart.md)
+- [文字可视化-Visualized-Text](02-信息图形类型案例/11-文字可视化-Visualized-Text.md)
+- [解剖型-Anatomical](02-信息图形类型案例/12-解剖型-Anatomical.md)
+- [视觉简历-Visual-Resume](02-信息图形类型案例/13-视觉简历-Visual-Resume.md)
+- [手稿型-Hand-drawn](02-信息图形类型案例/14-手稿型-Hand-drawn.md)
+- [编年编目复合型-Hybrid](02-信息图形类型案例/15-编年编目复合型-Hybrid.md)
+- [三维型-3D](02-信息图形类型案例/16-三维型-3D.md)
+- [词云信息图-Word-Cloud](02-信息图形类型案例/17-词云信息图-Word-Cloud.md)
 
 ## 03 ISOTYPE 信息图专项
 - [专项项目首页](03-ISOTYPE信息图/README.md)：研究 ISOTYPE 的历史、原则、视觉语法、案例与当代应用。
