@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "style_001",
+  "profile_version": "1.0.0",
+  "profile_name": "",
+  "created_from": {
+    "reference_count": 0,
+    "reference_roles": [],
+    "notes": "记录参考图/文档如何用于分析，不把参考内容当作风格规则"
+  },
+  "style_identity": {
+    "summary": "",
+    "narrative_stance": "",
+    "confidence": 0.0
+  },
+  "visual_rules": {
+    "line_and_edges": "",
+    "color_system": "",
+    "lighting_logic": "",
+    "composition": "",
+    "shape_and_proportion": "",
+    "material_and_texture": "",
+    "rendering_and_finish": "",
+    "scale_and_space": "",
+    "information_density": "",
+    "visual_anchor": "",
+    "visual_tension": ""
+  },
+  "constraints": {
+    "locked": [],
+    "adaptable": [],
+    "theme_variables": [
+      "subject",
+      "action",
+      "environment",
+      "narrative",
+      "mood",
+      "supporting_motifs",
+      "output_requirements"
+    ],
+    "forbidden_drift": []
+  },
+  "evidence_and_uncertainty": [
+    {
+      "claim": "",
+      "visual_evidence": "",
+      "confidence": "high | medium | low",
+      "status": "observed | inferred | needs_confirmation"
+    }
+  ],
+  "theme_task": {
+    "subject": "{{subject}}",
+    "action": "{{action}}",
+    "environment": "{{environment}}",
+    "narrative": "{{narrative}}",
+    "mood": "{{mood}}",
+    "supporting_motifs": "{{supporting_motifs}}",
+    "output_requirements": "{{format, aspect ratio, intended use}}"
+  },
+  "model_adapter": {
+    "target_model": "generic",
+    "model_version": "",
+    "prompt_language": "Chinese",
+    "validated_notes": []
+  },
+  "outputs": {
+    "json_zh": {},
+    "json_en": {},
+    "simple_prompt_zh": "",
+    "natural_prompt_zh": ""
+  },
+  "validation_and_iterations": []
+}
+
